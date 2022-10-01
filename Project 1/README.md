@@ -44,16 +44,6 @@ There are 3 datasets included in the [`data`](./data/) folder for this project.
 
 
 
-
-
-### Suggested Resources
-
-Here's a link on [how to give a good lightning talk](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/), which provides some good recommendations for short presentations.
-
-[Here's a great summary](https://towardsdatascience.com/storytelling-with-data-a-data-visualization-guide-for-business-professionals-97d50512b407) of the main points of the book _Storytelling with Data_, which I can't recommend enough. [Here's a blog post](http://www.storytellingwithdata.com/blog/2017/8/9/my-guiding-principles) by the author about his guiding principles for visualizations.
-
-
-
 ### Presentation Slides
 * [`Project 1 Group 1.pdf`](./Project 1 Group 1.pdf)
 
