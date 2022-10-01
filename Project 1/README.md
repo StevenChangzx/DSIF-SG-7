@@ -41,5 +41,17 @@ Even though there is strong linear relationship between SAT and ACT scores group
 
 Based on intended school:
  Students who want to apply to the following schools should take SAT.
- #### Willamette University, Pratt Institute, University of Texas El Paso, Wheaton College (MA), College of St. Benedict, The Cooper Union, Boise State, Centre College,	Clark University
+ #### , , , , , , , ,	
+ 
+| ACT           |     SAT       |
+| ------------- | ------------- |
+| Content Cell  | Willamette University  |
+| Content Cell  | Pratt Institute  |
+| Content Cell  | University of Texas El Paso  |
+| Content Cell  | Wheaton College (MA)  |
+| Content Cell  | College of St. Benedict  |
+| Content Cell  | The Cooper Union  |
+| Content Cell  | Boise State  |
+| Content Cell  | Centre College  |
+| Content Cell  | Clark University  |
 
