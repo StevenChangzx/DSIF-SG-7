@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Test Analysis
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Analysis of SAT vs ACT for student's better_decision
 
 ### Overview
 For our first project, we're going to take a look at aggregate SAT and ACT scores and participation rates in the United States. We'll seek to identify trends in the data and combine our data analysis with outside research to address our problem statement.
@@ -36,4 +36,10 @@ There are 3 datasets included in the [`data`](./data/) folder for this project.
 ### Presentation Slides
 * [`Project 1 Group 1.pdf`](./Project 1 Group 1.pdf)
 
+### Conclusion
+Even though there is strong linear relationship between SAT and ACT scores group by intended schools and majors We manage to find the oppotuinities for students to leverage on.
+
+Based on intended school:
+ Students who want to apply to the following schools should take SAT.
+ #### Willamette University, Pratt Institute, University of Texas El Paso, Wheaton College (MA), College of St. Benedict, The Cooper Union, Boise State, Centre College,	Clark University
 
