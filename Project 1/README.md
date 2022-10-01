@@ -53,3 +53,5 @@ Based on intended school:
 |   | Centre College  |
 |   | Clark University  |
 
+Based on intended majors
+Students who intend to take major in Social Science & law are recommanded to take SAT
