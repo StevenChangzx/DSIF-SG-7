@@ -43,13 +43,13 @@ Based on intended school:
 
 | ACT           |     SAT       |
 | ------------- | ------------- |
-| Content Cell  | Willamette University  |
-| Content Cell  | Pratt Institute  |
-| Content Cell  | University of Texas El Paso  |
-| Content Cell  | Wheaton College (MA)  |
-| Content Cell  | College of St. Benedict  |
-| Content Cell  | The Cooper Union  |
-| Content Cell  | Boise State  |
-| Content Cell  | Centre College  |
-| Content Cell  | Clark University  |
+| Florida International  | Willamette University  |
+| University of Alaska Anchorage  | Pratt Institute  |
+| University of North Carolina—​Wilmington  | University of Texas El Paso  |
+| University of Wisconsin—​Madison  | Wheaton College (MA)  |
+| University of California—​Santa Barbara  | College of St. Benedict  |
+| Washington College  | The Cooper Union  |
+| University of Arizona | Boise State  |
+|   | Centre College  |
+|   | Clark University  |
 
