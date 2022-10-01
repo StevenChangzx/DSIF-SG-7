@@ -40,9 +40,7 @@ There are 3 datasets included in the [`data`](./data/) folder for this project.
 Even though there is strong linear relationship between SAT and ACT scores group by intended schools and majors We manage to find the oppotuinities for students to leverage on.
 
 Based on intended school:
- Students who want to apply to the following schools should take SAT.
- #### , , , , , , , ,	
- 
+
 | ACT           |     SAT       |
 | ------------- | ------------- |
 | Content Cell  | Willamette University  |
