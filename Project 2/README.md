@@ -29,10 +29,8 @@ The Ames Housing Dataset is an exceptionally detailed and robust dataset with ov
 ## Submission
 
 
-- At least one successful prediction submission on [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge/leaderboard)" tab.
-- Data files
-- Presentation slides
-- Any other necessary files (images, etc.)
+<img width="918" alt="image" src="https://user-images.githubusercontent.com/68343996/197802866-3d220775-5444-4dae-ba7c-fbe1f785304d.png">
+
 
 ---
 
