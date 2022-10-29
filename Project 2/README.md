@@ -1,6 +1,14 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-Creating a regression model based on the Ames Housing Dataset [Regression Challenge](https://www.kaggle.com/t/2dde5663e03b4165b853ff65e723c26d). This model will predict the price of a house at sale.
+## Background and problem statement
+
+Purchasing a house can be a huge commitment . As a real estate agent, we  would like our clients 
+- to find out which features have greater impact to the house value
+- to find out how much they probably need to spend on purchasing a house with features that they want
+
+To solve the problem, I will create a regression model based on the Ames Housing Dataset [Regression Challenge](https://www.kaggle.com/t/2dde5663e03b4165b853ff65e723c26d). This model will predict the price of a house at sale.
+
+
 
 The Ames Housing Dataset is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses.
 
