@@ -2,7 +2,7 @@
 
 ## Background and Problem Statement
 
-Purchasing a house can be a huge commitment . As a real estate agent, we  would like our clients 
+Purchasing a house can be a huge commitment . As a real estate agent, I  would like our clients 
 - to find out which features have greater impact to the house value
 - to find out how much they probably need to spend on purchasing a house with features that they want
 
@@ -30,10 +30,13 @@ To solve the problem, I will create a regression model based on the Ames Housing
 ## Result
 Top 5 most vital features affecting the house sale price (sorted by coefficients of the best model)
 
-1.	Roof Matl_ClyTile	470888.316050
-2.	BsmtFin SF 1	143526.197755
-3.	Roof Matl_Membran	128212.528446
-4.	Bsmt Unf SF	126539.391792
-5.	Total Bsmt SF	121815.082053
+1.	Roof Matl_ClyTile	 
+2.	BsmtFin SF 1	 
+3.	Roof Matl_Membran	 
+4.	Bsmt Unf SF	 
+5.	Total Bsmt SF	 
+
+## Conclusion (Recommendation)
+I would suggest my clients to primarily consider the roof material, basement and total area in square feet beacuse these factors contribute substantially to house sale price.
 ---
 
