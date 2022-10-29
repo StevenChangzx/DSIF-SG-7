@@ -35,8 +35,14 @@ Top 5 most vital features affecting the house sale price (sorted by coefficients
 3.	Roof Matl_Membran	 
 4.	Bsmt Unf SF	 
 5.	Total Bsmt SF	 
+6.  Neighborhood_GrnHill	 
+7. 	Roof Matl_WdShngl	 
+8.	Roof Matl_Tar&Grv	 
+9.  	Roof Matl_WdShake	 
+10. Condition 2_RRAe
 
 ## Conclusion (Recommendation)
-I would suggest my clients to primarily consider the roof material, basement and total area in square feet beacuse these factors contribute substantially to house sale price.
+
+I would suggest my clients to primarily consider the roof material, neighborhood and basement and total area in square feet beacuse these factors contribute substantially to house sale price.
 ---
 
