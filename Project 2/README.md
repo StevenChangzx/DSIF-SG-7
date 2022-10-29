@@ -1,6 +1,6 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-## Background and problem statement
+## Background and Problem Statement
 
 Purchasing a house can be a huge commitment . As a real estate agent, we  would like our clients 
 - to find out which features have greater impact to the house value
