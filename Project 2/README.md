@@ -37,9 +37,10 @@ Top 10 most vital features affecting the house sale price (sorted by coefficient
 5.	  Total Bsmt SF	 
 6.    Neighborhood_GrnHill	 
 7. 	  Roof Matl_WdShngl	 
-8.	  Roof Matl_Tar&Grv	 
-9.  	Roof Matl_WdShake
-10.   Condition 2_RRAe
+8.	  Roof Matl_Tar&Grv	
+9.	  	Roof Matl_WdShake
+10.  	Condition 2_RRAe
+
 
 ## Conclusion (Recommendation)
 
