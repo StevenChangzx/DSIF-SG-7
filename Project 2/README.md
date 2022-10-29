@@ -28,7 +28,7 @@ To solve the problem, I will create a regression model based on the Ames Housing
 
 
 ## Result
-Top 5 most vital features affecting the house sale price (sorted by coefficients of the best model)
+Top 10 most vital features affecting the house sale price (sorted by coefficients of the best model)
 
 1.	Roof Matl_ClyTile	 
 2.	BsmtFin SF 1	 
@@ -44,5 +44,7 @@ Top 5 most vital features affecting the house sale price (sorted by coefficients
 ## Conclusion (Recommendation)
 
 I would suggest my clients to primarily consider the roof material, neighborhood and basement and total area in square feet beacuse these factors contribute substantially to house sale price.
+
+
 ---
 
