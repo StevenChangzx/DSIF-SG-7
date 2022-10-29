@@ -4,15 +4,14 @@ Creating a regression model based on the Ames Housing Dataset [Regression Challe
 
 The Ames Housing Dataset is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses.
 
+Steps of This Project
+
+1. EDA
+2. Train-test split
+3. Data processing with robust pipeline (OOP)
+4. Refining models over time (RandomizedSearchCV)
 
 
-- Refining models over time
-- Use of train-test split, cross-validation, and data with unknown values for the target to simulate the modeling process
-- The use of Kaggle as a place to practice data science
-- train-test split
-- cross-validation / grid searching for hyperparameters
-- strong exploratory data analysis to question correlation and relationship across predictive variables
-- code that reproducibly and consistently applies feature transformation (such as the preprocessing library)
 
 
 ## The Modeling Process
