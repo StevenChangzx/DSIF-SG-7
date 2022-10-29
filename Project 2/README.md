@@ -30,16 +30,16 @@ To solve the problem, I will create a regression model based on the Ames Housing
 ## Result
 Top 10 most vital features affecting the house sale price (sorted by coefficients of the best model)
 
-1.	Roof Matl_ClyTile	 
-2.	BsmtFin SF 1	 
-3.	Roof Matl_Membran	 
-4.	Bsmt Unf SF	 
-5.	Total Bsmt SF	 
-6.  Neighborhood_GrnHill	 
-7. 	Roof Matl_WdShngl	 
-8.	Roof Matl_Tar&Grv	 
+1.	  Roof Matl_ClyTile	 
+2.	  BsmtFin SF 1	 
+3.	  Roof Matl_Membran	 
+4.	  Bsmt Unf SF	 
+5.	  Total Bsmt SF	 
+6.    Neighborhood_GrnHill	 
+7. 	  Roof Matl_WdShngl	 
+8.	  Roof Matl_Tar&Grv	 
 9.  	Roof Matl_WdShake	 
-10. Condition 2_RRAe
+10.   Condition 2_RRAe
 
 ## Conclusion (Recommendation)
 
