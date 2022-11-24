@@ -30,3 +30,4 @@ For project 3, my goal is two-fold:
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/wd_wsb.png)
 
 - **Step 4** of the project focuses on **Classification Modeling**. There are two parts for model optimization. In the [first half](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/03_Model_Training.ipynb),  I fitted various models (**Random Forest classifier, logistic regression classifier, KNN, SVM**, etc) and use RandomizedSearchCV to find models with the best perfomance according to different metrics (**recall, accuracy, auc-roc, f1 score, f beta score**).
+![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Models.png)
