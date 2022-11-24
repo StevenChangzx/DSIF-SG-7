@@ -19,7 +19,7 @@ For project 3, my goal is two-fold:
 **Pro Tip:** You can find a good example executive summary [here](https://www.proposify.biz/blog/executive-summary).
 
 ### Project Workflow
-![Project 3.pdf](images/Project%203.pdf)
+![[images/Project%203.pdf](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Project%203.pdf)
 
 Step 1 of the project: **Problem Statement and background**
 
