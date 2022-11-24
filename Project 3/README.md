@@ -29,8 +29,19 @@ For project 3, my goal is two-fold:
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/wd_ist.png)
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/wd_wsb.png)
 
+
 - **Step 4** of the project focuses on **Classification Modeling**. There are two parts for model optimization. In the [first half](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/03_Model_Training.ipynb),  I fitted various models (**Random Forest classifier, logistic regression classifier, KNN, SVM**, etc) and use RandomizedSearchCV to find models with the best perfomance according to different metrics (**recall, accuracy, auc-roc, f1 score, f beta score**).
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Models.png)
+
+After training the modles, I find the list of models with best perfomance as below:
+After training different classification Models based on different vectorizers, we found below 4 candidate models for next step: find the best model.
+
+| Vectorizer |stop_words | ngram_range  |  min_df | max_features  |  max_df | Model| penalty | C 
+|---|---|---|---|---|---|---|---|---|
+| CountVectorizer |english |  (1, 2) | 2  |  3500 | 0.5  |  RandomForestClassifier(max_depth=20, n_estimators=100)| NaN|NaN |
+| TfidfVectorizer/CountVectorizer |english |  (1, 1) | 2  |  3500 | 0.7  | RandomForestClassifier(max_depth=20, n_estimators=50)| NaN|NaN |
+| TfidfVectorizer |english |  (1, 1)|  1 |  2000 |  0.7 | LogisticRegression(C=0.1, solver='saga')|	L2|  0.1|
+| TfidfVectorizer/CountVectorizer |english |  (1, 2)|  2 |  3000 |  0.7 | GradientBoostingClassifier(max_depth=20, n_estimators=250)|NaN|NaN |
 
 In the [second half](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/04_Esemble_%20Model.ipynb), I combine the final models together to ensemble models to improve the accuracy and reduce variance.
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/vt.png)
