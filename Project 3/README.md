@@ -18,12 +18,12 @@ For project 3, my goal is two-fold:
 
 **Pro Tip:** You can find a good example executive summary [here](https://www.proposify.biz/blog/executive-summary).
 
-### Project Workflow
+## Project Workflow
 ![3](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Project%203.png)
 
-Step 1 of the project: **Problem Statement and background**
+- **Step 1** of the project: **Problem Statement and background**
 
-Step 2 of the project focuses on **Data wrangling/gathering/acquisition and EDA**. Using [Pushshift's](https://github.com/pushshift/api) API to collect posts from two subreddits . (clean the data from unstructured/semi-structured sources and export to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/reddit_clean.csv). Then use **Natural Language Processing** in converting standard text data (like Titles and Comments) into a format that available to be analyzed and fitted in modeling and export it to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/data_nlp.csv). Some EDA chart from this step:
+- **Step 2** of the project focuses on **Data wrangling/gathering/acquisition and EDA**. Using [Pushshift's](https://github.com/pushshift/api) API to collect posts from two subreddits . (clean the data from unstructured/semi-structured sources and export to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/reddit_clean.csv). Then use **Natural Language Processing** in converting standard text data (like Titles and Comments) into a format that available to be analyzed and fitted in modeling and export it to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/data_nlp.csv). Some EDA chart from this step:
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/wd_ist.png)
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/wd_wsb.png)
 
