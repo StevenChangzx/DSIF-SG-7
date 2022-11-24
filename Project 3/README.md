@@ -23,8 +23,8 @@ For project 3, my goal is two-fold:
 
 Step 1 of the project: **Problem Statement and background**
 
-Step 2 of the project focuses on **Data wrangling/gathering/acquisition**. Using [Pushshift's](https://github.com/pushshift/api) API to collect posts from two subreddits . (clean the data from unstructured/semi-structured sources and export to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/data_nlp.csv)
-
-Step 3 of the project focuses on **Natural Language Processing** and converting standard text data (like Titles and Comments) into a format that allows us to analyze it and use it in modeling.
+Step 2 of the project focuses on **Data wrangling/gathering/acquisition and EDA**. Using [Pushshift's](https://github.com/pushshift/api) API to collect posts from two subreddits . (clean the data from unstructured/semi-structured sources and export to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/reddit_clean.csv). Then use **Natural Language Processing** in converting standard text data (like Titles and Comments) into a format that available to be analyzed and fitted in modeling and export it to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/data_nlp.csv). Some EDA chart from this step:
+![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/wd_ist.png)
+![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/wd_wsb.png)
 
 Step 3 Part A of the project focuses on **Classification Modeling**.  Since it's a binary classification problem I fitted various models (Random Forest classifier, logistic regression classifier, KNN, SVM, etc) and use RandomizedSearchCV to find models with the best perfomance according to different metrics (recall, accuracy, auc-roc, f1 score, f beta score).
