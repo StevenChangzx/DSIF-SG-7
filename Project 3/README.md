@@ -1,9 +1,11 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Classification Model using Web APIs & NLP to calssify reddit posts 
 
 ### Background And Problem Statement
+As a part of marketing division of a fiancial company, I would like to efficiently advertise our different products AD on relevant subreddit. (e.g. less risky prodct for risk-adverse investor and more risky product for activist investor. Thus I choose the two bigeest subreddits relevant to investing, which are r/investing no r/Wallstreetbets. I will create a model to do binary text classification  based on the post to distinguish two subreddits.
 
-
-2. Using NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
+![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/WallStreetBets-600x472.png)
+**VS**
+![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/communityIcon_rfponci4qog61.png)
 
 
 
@@ -37,7 +39,9 @@ After training various classification modles based on different vectorizers, I f
 In the [second half](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/04_Esemble_%20Model.ipynb), I combine the final models together to ensemble models to improve the accuracy and reduce variance.
 * voting
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/vt.png)
+
 * Boosing
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/ensMd2.png)
+
 * Stacking
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Screenshot%202022-11-24%20at%201.25.04%20AM.png)
