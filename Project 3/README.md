@@ -9,7 +9,7 @@ As a part of marketing division of a fiancial company, I would like to efficient
 
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Screenshot%202022-11-04%20at%202.48.38%20AM.png)
 
-**Pro Tip:** You can find a good example executive summary [here](https://www.proposify.biz/blog/executive-summary).
+
 
 ## Project Workflow
 ![3](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Project%203.png)
