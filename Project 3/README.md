@@ -37,4 +37,7 @@ After training various classification modles based on different vectorizers, I f
 In the [second half](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/04_Esemble_%20Model.ipynb), I combine the final models together to ensemble models to improve the accuracy and reduce variance.
 * voting
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/vt.png)
+* Boosing
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/ensMd2.png)
+* Stacking
+![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Screenshot%202022-11-24%20at%201.25.04%20AM.png)
