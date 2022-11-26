@@ -1,7 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Classification Model using Web APIs & NLP to calssify reddit posts 
 
 ### Background And Problem Statement
-As a part of marketing division of a fiancial company, I would like to efficiently advertise our different products AD on relevant subreddit. (e.g. less risky prodct for risk-adverse investor and more risky product for activist investor.) Thus I choose the two bigeest subreddits relevant to investing, which are r/investing no r/Wallstreetbets. I will create a model to do binary text classification  based on the post to distinguish two subreddits.
+As a part of marketing division of a finacial company, I would like to efficiently advertise our different products AD on relevant subreddit. (e.g. less risky product for risk-averse investor and more risky product for activist investor.) Thus I choose the two biggest subreddits relevant to investing, which are r/investing no r/Wallstreetbets. I will create a model to do binary text classification  based on the post to distinguish two subreddits.
 
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/WallStreetBets-600x472.png)
 **VS**
@@ -51,4 +51,4 @@ In the [second half](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Pro
 AUC - ROC curve is a performance measurement for the classification problems at various threshold settings. ROC is a probability curve and AUC represents the degree or measure of separability. It tells how much the model is capable of distinguishing between classes. Higher the AUC, the better the model is at predicting 0 classes as 0 and 1 classes as 1. Thus by analogy, the stacking model is the better model at distinguishing between posts between the r/investing and r/Wallstreetbets.
 
 ### Reconmmendation: 
-We will use the final model (stacking) on our advertising proposal of different products to see if the result is correct. (if the advertising proposal for higher risk prodct goes to r/Wallstreetbets and lower risk to r/investing). If not, then adjusting our advertising proposal to correct the result for a better and more efficient advertising.
+We will use the final model (stacking) on our advertising proposal of different products to see if the result is correct. (if the advertising proposal for higher risk product goes to r/Wallstreetbets and lower risk to r/investing). If not, then adjusting our advertising proposal to correct the result for a better and more efficient advertising.
