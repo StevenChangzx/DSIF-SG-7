@@ -7,7 +7,7 @@ As a part of marketing division of a fiancial company, I would like to efficient
 **VS**
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/communityIcon_rfponci4qog61.png)
 
-
+![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Screenshot%202022-11-04%20at%202.48.38%20AM.png)
 
 **Pro Tip:** You can find a good example executive summary [here](https://www.proposify.biz/blog/executive-summary).
 
@@ -45,3 +45,9 @@ In the [second half](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Pro
 
 * Stacking
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Screenshot%202022-11-24%20at%201.25.04%20AM.png)
+
+
+- **[Step 5] ConClusion : Aftter comapring a few ensemble models, we found that the stacking model and voting model has the same accuracy but AUC of stacking model is 0.91 which is higher than 0.90 of voting.
+AUC - ROC curve is a performance measurement for the classification problems at various threshold settings. ROC is a probability curve and AUC represents the degree or measure of separability. It tells how much the model is capable of distinguishing between classes. Higher the AUC, the better the model is at predicting 0 classes as 0 and 1 classes as 1. Thus by analogy, the stacking model is the better the model at distinguishing between posts with the r/investing no r/Wallstreetbets .
+
+**Reconmmendation**: We will use the final model (stacking) on our advertising proposal of different products to see if the result is correct. (if the advertising proposal for higher risk prodct goes to r/Wallstreetbets and lower risk to r/investing). If not, then adjusting our advertising proposal to correct the result for a better and more efficient advertising.
