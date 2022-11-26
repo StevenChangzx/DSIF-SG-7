@@ -35,5 +35,6 @@ After training various classification modles based on different vectorizers, I f
 | TfidfVectorizer/CountVectorizer |english |  (1, 2)|  2 |  3000 |  0.7 | GradientBoostingClassifier(max_depth=20, n_estimators=250)|NaN|NaN |
 
 In the [second half](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/04_Esemble_%20Model.ipynb), I combine the final models together to ensemble models to improve the accuracy and reduce variance.
+* voting
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/vt.png)
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/ensMd2.png)
