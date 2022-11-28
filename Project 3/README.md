@@ -16,7 +16,7 @@ As a part of marketing division of a finacial company, I would like to efficient
 
 - **Step 1** of the project: **Problem Statement and background**
 
-- **[Step 2](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/01_API_Web_Scrabbing.ipynb)** of the project focuses on **Data wrangling/gathering/acquisition and cleansing**. Using [Pushshift's](https://github.com/pushshift/api) API to collect posts from two subreddits . (clean the data from unstructured/semi-structured sources and export to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/reddit_clean.csv). 
+- **[Step 2](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/01_API_Web_Scrabbing.ipynb)** of the project focuses on **Data wrangling/gathering/acquisition and cleansing**. Using [Pushshift's](https://github.com/pushshift/api) API to collect posts from two subreddits . (clean the data from unstructured/semi-structured sources and export to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/reddit_clean.csv).) 
 
 - **[Step 3](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/02_NLP-EDA.ipynb)** of the project focuses on **Natural Language Processing and EDA**. Converting standard text data (like Titles and Comments) into a format that is available to be analyzed and fitted in modeling. Then export it to [csv file](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/data_nlp.csv). Some EDA chart from this step:
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/wd_ist.png)
