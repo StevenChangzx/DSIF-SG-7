@@ -44,6 +44,7 @@ In the [second half](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Pro
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/ensMd2.png)
 
 * Stacking
+[stacking package (OOP)](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/stacking.py)
 ![](https://github.com/StevenZhangzhexu/DSIF-SG-7/blob/main/Project%203/images/Screenshot%202022-11-24%20at%201.25.04%20AM.png)
 
 
